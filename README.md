@@ -27,7 +27,4 @@ Observação: se a Central exigir um passo manual (UI do Fluig), gere o artefato
 
   mvn verify
 
-- Teste manual: após publicar ou copiar o artefato gerado em `target/`, implante-o no ambiente de testes (servidor de aplicação ou repositório de componentes) e valide o comportamento conforme os casos de uso do projeto.
-
-## Localização dos artefatos
-- Artefatos gerados: `target/`
+- Teste manual: após publicar ou copiar o artefato gerado em `target/`, implante-o através da central de componentes do Fluig.
