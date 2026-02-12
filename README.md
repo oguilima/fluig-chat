@@ -31,9 +31,3 @@ Observação: se a Central exigir um passo manual (UI do Fluig), gere o artefato
 
 ## Localização dos artefatos
 - Artefatos gerados: `target/`
-
-## Dicas
-- Certifique-se de que `settings.xml` contenha as credenciais corretas e o servidor remoto configurado.
-- Para deploy automatizado em CI, use `mvn -B deploy` e proteja as credenciais no provedor de CI.
-
-Se precisar, posso ajustar este README com comandos específicos do servidor de componentes usado pela sua equipe.
